@@ -52,6 +52,8 @@ em {
     hsl(36deg 35% 87%) 98%,
     hsl(42deg 32% 86%) 100%
   );
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
   max-width: 800px;
   margin: 30px auto;
   padding-top: 10px;
@@ -86,7 +88,6 @@ ol li {
 
 ul {
   list-style: square;
-  padding-left: 54px;
 }
 
 ul li {
